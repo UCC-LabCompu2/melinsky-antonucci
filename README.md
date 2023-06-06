@@ -6,7 +6,7 @@ Esta pagina es sobre moda, tendencias actuales y muchos consejos sobre tu estilo
 `*`Julieta Melinsky clave 2227956
 `*`Justina Antonucci clave 2200474
 
-### Tecnologias usadas
+## Tecnologias usadas
 
 `+` Html5
 `+` Css3
@@ -17,6 +17,6 @@ Esta pagina es sobre moda, tendencias actuales y muchos consejos sobre tu estilo
 `+` JavaScrpt
 `+` Canvas
 
-#### Link al sitio web
+## Link al sitio web
 
 
