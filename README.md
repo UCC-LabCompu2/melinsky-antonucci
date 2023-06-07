@@ -18,5 +18,5 @@ Esta pagina es sobre moda, tendencias actuales y muchos consejos sobre tu estilo
 `+` Canvas
 
 ## Link al sitio web
-
+https://ucc-labcompu2.github.io/melinsky-antonucci/proyecto/index.html
 
