@@ -109,3 +109,4 @@ function borrarCanvas() {
     // Limpiar el canvas, borrando todo su contenido
     ctx.clearRect(0, 0, canvas.width, canvas.height);
 }
+
