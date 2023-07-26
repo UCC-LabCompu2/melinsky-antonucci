@@ -7,13 +7,13 @@ Autores
 Julieta Melinsky (clave 2227956)
 Justina Antonucci (clave 2200474)
 Tecnologías usadas
-HTML5
-CSS3
-Lápiz y papel para el sketch
-Editor para el mockup
-GitHub
-Google Font
-JavaScript
+HTML5,
+CSS3,
+Lápiz y papel para el sketch,
+Editor para el mockup,
+GitHub,
+Google Font,
+JavaScript y 
 Canvas
 
 
